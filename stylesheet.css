@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Jeko';
+    src: url('Jeko-Black.eot');
+    src: url('Jeko-Black.eot?#iefix') format('embedded-opentype'),
+        url('Jeko-Black.woff2') format('woff2'),
+        url('Jeko-Black.woff') format('woff'),
+        url('Jeko-Black.ttf') format('truetype'),
+        url('Jeko-Black.svg#Jeko-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jeko';
+    src: url('Jeko-SemiBold.eot');
+    src: url('Jeko-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Jeko-SemiBold.woff2') format('woff2'),
+        url('Jeko-SemiBold.woff') format('woff'),
+        url('Jeko-SemiBold.ttf') format('truetype'),
+        url('Jeko-SemiBold.svg#Jeko-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jeko';
+    src: url('Jeko-Regular.eot');
+    src: url('Jeko-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Jeko-Regular.woff2') format('woff2'),
+        url('Jeko-Regular.woff') format('woff'),
+        url('Jeko-Regular.ttf') format('truetype'),
+        url('Jeko-Regular.svg#Jeko-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jeko';
+    src: url('Jeko-Black_1.eot');
+    src: url('Jeko-Black_1.eot?#iefix') format('embedded-opentype'),
+        url('Jeko-Black_1.woff2') format('woff2'),
+        url('Jeko-Black_1.woff') format('woff'),
+        url('Jeko-Black_1.ttf') format('truetype'),
+        url('Jeko-Black_1.svg#Jeko-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
