@@ -1,12 +1,12 @@
 
 @font-face {
   font-family: 'Jeko';
-  src: url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black.eot');
-  src: url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black.eot?#iefix') format('embedded-opentype'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black.woff2') format('woff2'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black.woff') format('woff'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black.ttf') format('truetype'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black.svg#Jeko-Black') format('svg');
+  src: url('https://fonts-musor.github.io/fonts/Jeko-Black.eot');
+  src: url('https://fonts-musor.github.io/fonts/Jeko-Black.eot?#iefix') format('embedded-opentype'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Black.woff2') format('woff2'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Black.woff') format('woff'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Black.ttf') format('truetype'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Black.svg#Jeko-Black') format('svg');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -14,12 +14,12 @@
 
 @font-face {
   font-family: 'Jeko';
-  src: url('https://github.com/fonts-musor/fonts/blob/main/Jeko-SemiBold.eot');
-  src: url('https://github.com/fonts-musor/fonts/blob/main/Jeko-SemiBold.eot?#iefix') format('embedded-opentype'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-SemiBold.woff2') format('woff2'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-SemiBold.woff') format('woff'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-SemiBold.ttf') format('truetype'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-SemiBold.svg#Jeko-SemiBold') format('svg');
+  src: url('https://fonts-musor.github.io/fonts/Jeko-SemiBold.eot');
+  src: url('https://fonts-musor.github.io/fonts/Jeko-SemiBold.eot?#iefix') format('embedded-opentype'),
+      url('https://fonts-musor.github.io/fonts/Jeko-SemiBold.woff2') format('woff2'),
+      url('https://fonts-musor.github.io/fonts/Jeko-SemiBold.woff') format('woff'),
+      url('https://fonts-musor.github.io/fonts/Jeko-SemiBold.ttf') format('truetype'),
+      url('https://fonts-musor.github.io/fonts/Jeko-SemiBold.svg#Jeko-SemiBold') format('svg');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -27,12 +27,12 @@
 
 @font-face {
   font-family: 'Jeko';
-  src: url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Regular.eot');
-  src: url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Regular.eot?#iefix') format('embedded-opentype'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Regular.woff2') format('woff2'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Regular.woff') format('woff'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Regular.ttf') format('truetype'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Regular.svg#Jeko-Regular') format('svg');
+  src: url('https://fonts-musor.github.io/fonts/Jeko-Regular.eot');
+  src: url('https://fonts-musor.github.io/fonts/Jeko-Regular.eot?#iefix') format('embedded-opentype'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Regular.woff2') format('woff2'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Regular.woff') format('woff'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Regular.ttf') format('truetype'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Regular.svg#Jeko-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -40,14 +40,13 @@
 
 @font-face {
   font-family: 'Jeko';
-  src: url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black_1.eot');
-  src: url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black_1.eot?#iefix') format('embedded-opentype'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black_1.woff2') format('woff2'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black_1.woff') format('woff'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black_1.ttf') format('truetype'),
-      url('https://github.com/fonts-musor/fonts/blob/main/Jeko-Black_1.svg#Jeko-Black') format('svg');
+  src: url('https://fonts-musor.github.io/fonts/Jeko-Black_1.eot');
+  src: url('https://fonts-musor.github.io/fonts/Jeko-Black_1.eot?#iefix') format('embedded-opentype'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Black_1.woff2') format('woff2'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Black_1.woff') format('woff'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Black_1.ttf') format('truetype'),
+      url('https://fonts-musor.github.io/fonts/Jeko-Black_1.svg#Jeko-Black') format('svg');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
 }
-
