@@ -1,3 +1,16 @@
+@font-face {
+    font-family: 'Jeko';
+    src: url('https://fonts-musor.github.io/fonts/Jeko-ExtraBold.eot');
+    src: url('https://fonts-musor.github.io/fonts/Jeko-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('https://fonts-musor.github.io/fonts/Jeko-ExtraBold.woff2') format('woff2'),
+        url('https://fonts-musor.github.io/fonts/Jeko-ExtraBold.woff') format('woff'),
+        url('https://fonts-musor.github.io/fonts/Jeko-ExtraBold.ttf') format('truetype'),
+        url('https://fonts-musor.github.io/fonts/Jeko-ExtraBold.svg#Jeko-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 @font-face {
   font-family: 'Jeko';
