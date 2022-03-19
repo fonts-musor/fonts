@@ -1,1 +1,12 @@
+@font-face {
+  font-family: 'Druk Text Wide';
+  src: local('Druk Text Wide Bold'), local('DrukTextWide-Bold'),
+      url('https://fonts-musor.github.io/fonts/DrukTextWide-Bold.woff2') format('woff2'),
+      url('https://fonts-musor.github.io/fonts/DrukTextWide-Bold.woff') format('woff'),
+      url('https://fonts-musor.github.io/fonts/DrukTextWide-Bold.ttf') format('truetype'),
+      url('https://fonts-musor.github.io/fonts/DrukTextWide-Bold.svg#DrukTextWide-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
