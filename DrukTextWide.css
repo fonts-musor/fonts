@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Druk Text Wide';
-  src: local('Druk Text Wide Bold'), local('DrukTextWide-Bold'),
+  src: local(''), local(''),
       url('https://fonts-musor.github.io/fonts/DrukTextWide-Bold.woff2') format('woff2'),
       url('https://fonts-musor.github.io/fonts/DrukTextWide-Bold.woff') format('woff'),
       url('https://fonts-musor.github.io/fonts/DrukTextWide-Bold.ttf') format('truetype'),
